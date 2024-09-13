@@ -1,0 +1,18 @@
+[
+    {
+        "user_response": [
+            "I am interested in a quiet and safe neighborhood with nearby grocery stores and public transportation.\n      My budget is $600,000.\n      I need at least 4 bedrooms.\n      I need at least 3 bathrooms.\n      I require a minimum of 2,000 square feet.\n      I prefer a traditional style home with a large kitchen and a fireplace.\n      I need a two-car garage and a garden.\n      Amenities that are important to me include a community clubhouse and walking trails."
+        ],
+        "personalized_listings": [
+            {
+                "personalized_description": "Personalized Listing:\n\nProperty Description: Welcome to your dream home! This stunning 5-bedroom, 4-bathroom modern farmhouse in the Willow Creek neighborhood features a gourmet kitchen, hardwood floors, a cozy fireplace, and a backyard oasis with a pool and spa. The home also includes a 3-car garage and a spacious master suite with a luxurious en-suite bathroom.\n\nNeighborhood Description: Willow Creek is known for its family-friendly atmosphere and top-rated schools. Enjoy the community parks, walking trails, and easy access to shopping and dining options. With its convenient location near major highways, commuting is a breeze.\n\nListing Price: $950,000"
+            },
+            {
+                "personalized_description": "Property Description: Welcome home to this charming 3-bedroom, 2-bathroom ranch-style house in the Quaint Village neighborhood. This cozy home features a spacious backyard, perfect for gardening or hosting outdoor BBQs. The open concept layout, updated kitchen, and hardwood floors make this a perfect space for relaxing and entertaining.\n\nNeighborhood Description: Quaint Village is a family-friendly neighborhood with tree-lined streets, beautiful parks, and friendly neighbors. Enjoy the local farmers' market, boutique shops, and delicious restaurants just a short walk away. Top-rated schools and easy access to public transportation make this a highly desirable location.\n\nListing Price: $400,000"
+            },
+            {
+                "personalized_description": "\nPersonalized Listing: \nProperty Description: Welcome to this charming 4-bedroom, 2-bathroom Cape Cod style home in the historic Riverside neighborhood. This home features a cozy front porch, a spacious living room with a fireplace, and a backyard patio perfect for enjoying the beautiful gardens. The master bedroom includes a walk-in closet and ensuite bathroom for added convenience.\n\nNeighborhood Description: Riverside is known for its historic architecture, tree-lined streets, and vibrant community atmosphere. Residents enjoy local cafes, boutique shops, and easy access to the riverfront park for outdoor activities. Top-rated schools and a strong sense of community make Riverside a sought-after location for families.\n\nListing Price: $550,000"
+            }
+        ]
+    }
+]

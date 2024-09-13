@@ -1,0 +1,202 @@
+[
+    {
+        "neighborhood": "Sunset Hills",
+        "price": 950000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "3,500 sqft",
+        "description": "Welcome to this stunning 4-bedroom, 3-bathroom home located in the prestigious Sunset Hills neighborhood. This elegant estate features a grand entrance foyer, spacious living room with a fireplace, formal dining room, and a gourmet kitchen with top-of-the-line appliances. The luxurious master suite boasts a spa-like bathroom and a walk-in closet. The expansive backyard offers a sparkling pool, outdoor kitchen, and lush landscaping, perfect for entertaining guests. Enjoy luxury living at its finest in this Sunset Hills masterpiece.",
+        "neighborhood_description": "Sunset Hills is known for its upscale vibe and picturesque views of the sunset over the rolling hills. This exclusive neighborhood is home to top-rated schools, fine dining restaurants, and boutique shops. Residents can enjoy outdoor activities at the nearby Sunset Hills Park or tee off at the Sunset Hills Country Club. With easy access to freeways and downtown amenities, Sunset Hills offers a perfect balance of tranquility and convenience.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Willow Creek",
+        "price": 950000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Welcome to this stunning modern home located in the desirable neighborhood of Willow Creek. This spacious 4-bedroom, 3-bathroom house features sleek design elements, high-end finishes, and an abundance of natural light throughout. The gourmet kitchen is equipped with top-of-the-line appliances and a large island, perfect for entertaining. The luxurious master suite includes a spa-like bathroom and a walk-in closet. With an expansive backyard and a spacious deck, this home is ideal for outdoor gatherings and relaxation. Experience modern luxury living at its finest in this Willow Creek masterpiece.",
+        "neighborhood_description": "Willow Creek is known for its upscale and family-friendly atmosphere, offering a perfect blend of suburban tranquility and urban convenience. Residents enjoy access to top-rated schools, upscale shopping centers, and fine dining options. The neighborhood is surrounded by picturesque parks and greenbelts, providing plenty of opportunities for outdoor recreation. With easy access to major highways and public transportation, commuting to downtown is quick and convenient.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunnyvale",
+        "price": 1200000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Welcome to this spacious and modern 4-bedroom, 3-bathroom home located in the desirable neighborhood of Sunnyvale. This newly renovated home features a sleek and open floor plan, perfect for entertaining guests. The gourmet kitchen is equipped with stainless steel appliances, quartz countertops, and a large island. The luxurious master suite includes a spa-like bathroom with a soaking tub and a walk-in closet. Enjoy indoor-outdoor living with a private backyard and a covered patio area. With high-end finishes and attention to detail throughout, this home is a true gem in Sunnyvale.",
+        "neighborhood_description": "Sunnyvale is known for its suburban charm, excellent schools, and convenient location in the heart of Silicon Valley. Residents enjoy a variety of dining options, shopping centers, and recreational activities. Explore the nearby parks, farmers' markets, and tech companies. With easy access to major highways and public transportation, commuting to work or exploring the Bay Area is a breeze.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunnyvale Heights",
+        "price": 1200000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Welcome to this stunning modern home located in the coveted neighborhood of Sunnyvale Heights. This spacious 4-bedroom, 3-bathroom home features an open floor plan with high ceilings and large windows that provide abundant natural light throughout. The gourmet kitchen is equipped with stainless steel appliances, quartz countertops, and a center island, perfect for cooking and entertaining. The master suite offers a luxurious retreat with a spa-like bathroom and a walk-in closet. Step outside to the beautifully landscaped backyard with a patio and lush greenery, ideal for outdoor living and dining. This impeccable home is perfect for those who appreciate modern luxury and style in a prime location.",
+        "neighborhood_description": "Sunnyvale Heights is a desirable neighborhood known for its family-friendly atmosphere and top-rated schools. Residents enjoy easy access to parks, shopping centers, and restaurants. Take a short drive to downtown Sunnyvale for a variety of dining and entertainment options or explore the nearby hiking trails and nature reserves. Commuting is convenient with close proximity to major freeways and public transportation options.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Seaside Cove",
+        "price": 1200000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "square_footage": "3,500 sqft",
+        "description": "Escape to this stunning coastal retreat located in the desirable Seaside Cove neighborhood. This spacious 5-bedroom, 4-bathroom home offers breathtaking ocean views from almost every room. The luxurious master suite features a private balcony overlooking the water, perfect for enjoying the sunset. The gourmet kitchen is a chef's dream with top-of-the-line appliances and a large center island. The backyard oasis includes a heated pool, spa, and outdoor kitchen, ideal for entertaining guests or relaxing in the sea breeze. Live the coastal lifestyle in this Seaside Cove masterpiece.",
+        "neighborhood_description": "Seaside Cove is a prestigious waterfront community known for its luxurious homes and scenic ocean vistas. Residents enjoy easy access to the beach, marina, and seaside restaurants. Stroll along the coastal promenade or take a boat tour to explore the nearby islands. With upscale shopping and dining options nearby, Seaside Cove offers a sophisticated yet laid-back coastal living experience.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunnyvale",
+        "price": 1200000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Welcome to this bright and airy 4-bedroom, 3-bathroom home located in the desirable neighborhood of Sunnyvale. This stunning property features a spacious layout with modern upgrades and high-end finishes throughout. The gourmet kitchen is equipped with stainless steel appliances, granite countertops, and a large island perfect for entertaining. The master suite offers a luxurious retreat with a spa-like bathroom and ample closet space. Enjoy indoor-outdoor living with a beautifully landscaped backyard and patio area. This home is perfect for families looking for comfort, style, and convenience in the heart of Sunnyvale.",
+        "neighborhood_description": "Sunnyvale is a vibrant and family-friendly community known for its top-rated schools, parks, and local amenities. Residents enjoy a variety of dining options, shopping centers, and recreational opportunities nearby. Conveniently located near major tech companies, freeways, and public transportation, Sunnyvale offers an ideal blend of suburban tranquility and urban convenience.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Lakeside Landing",
+        "price": 650000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Welcome to this stunning lakeside retreat in the desirable Lakeside Landing neighborhood. This spacious 4-bedroom, 3-bathroom home features a modern design with high-end finishes and beautiful lake views. The open floor plan includes a gourmet kitchen, cozy living area with a fireplace, and a dining room that opens to a large deck overlooking the water. The luxurious master suite offers a private oasis with a soaking tub and separate shower. Enjoy outdoor entertaining in the expansive backyard with a fire pit and direct access to the lake for boating and water activities. Live the lakefront lifestyle you've always dreamed of in this Lakeside Landing gem.",
+        "neighborhood_description": "Lakeside Landing is a sought-after waterfront community known for its peaceful ambiance and outdoor recreational opportunities. Residents can take advantage of the neighborhood's private beach access, hiking trails, and community events. Nearby amenities include local restaurants, boutique shops, and top-rated schools. With its convenient location and serene surroundings, Lakeside Landing offers the perfect blend of luxury living and natural beauty.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunnyvale Heights",
+        "price": 1200000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Welcome to this stunning 4-bedroom, 3-bathroom home located in the coveted Sunnyvale Heights neighborhood. This spacious home features a modern design with high ceilings, large windows, and luxurious finishes throughout. The gourmet kitchen is equipped with top-of-the-line appliances and opens up to a bright and airy living room, perfect for entertaining guests. The master suite offers a peaceful retreat with a spa-like bathroom and a walk-in closet. Step outside to the landscaped backyard with a patio and lush greenery, creating a serene and private oasis.",
+        "neighborhood_description": "Sunnyvale Heights is a prestigious and family-friendly neighborhood known for its top-rated schools, beautiful parks, and vibrant community. Residents enjoy easy access to downtown shops, restaurants, and entertainment options. Take a walk to the nearby Sunnyvale Heights Park for a picnic or enjoy a bike ride along the scenic neighborhood streets. With convenient access to major highways and tech companies, Sunnyvale Heights offers the perfect blend of suburban tranquility and urban convenience.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunset Hills",
+        "price": 1200000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "3,500 sqft",
+        "description": "Step into luxury living in this exquisite 4-bedroom, 3-bathroom home located in the prestigious Sunset Hills neighborhood. This spacious property features high-end finishes, vaulted ceilings, and expansive windows that flood the home with natural light. The gourmet kitchen is a chef's dream with top-of-the-line appliances and a large island perfect for entertaining. Retreat to the master suite with a spa-like ensuite bathroom and a private balcony overlooking the landscaped backyard. Enjoy California indoor-outdoor living at its finest in this Sunset Hills sanctuary.",
+        "neighborhood_description": "Sunset Hills is an upscale and exclusive neighborhood known for its stunning views and upscale homes. Enjoy easy access to luxury shopping, fine dining, and top-rated schools. Take a leisurely stroll through the manicured streets or hike the nearby Sunset Hills Trail for breathtaking panoramic views of the city. With a strong sense of community and a prime location, Sunset Hills offers a lifestyle of luxury and convenience.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunset Hills",
+        "price": 950000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "3,500 sqft",
+        "description": "Experience luxury living in this exquisite 4-bedroom, 3-bathroom home located in the prestigious Sunset Hills neighborhood. This stunning property features high-end finishes, vaulted ceilings, and expansive windows that offer breathtaking views of the surrounding hills and city lights. The gourmet kitchen is a chef's dream with top-of-the-line appliances and a large island perfect for entertaining. The spacious master suite includes a spa-like bathroom with a soaking tub and a walk-in closet. Step outside to the beautifully landscaped backyard with a pool and spa, ideal for relaxing or hosting gatherings. Embrace the Sunset Hills lifestyle in this spectacular home.",
+        "neighborhood_description": "Sunset Hills is known for its upscale homes, lush greenery, and panoramic views. Residents enjoy easy access to hiking trails, golf courses, and fine dining options. The neighborhood is conveniently located near top-rated schools, shopping centers, and parks, making it an ideal place for families and outdoor enthusiasts alike.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Willow Creek",
+        "price": 950000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Step into luxury living in this stunning 4-bedroom, 3-bathroom home located in the prestigious Willow Creek neighborhood. This elegant property features high-end finishes, including marble countertops, designer fixtures, and hardwood floors. The spacious master suite offers a private retreat with a spa-like bathroom and walk-in closet. Entertain guests in the beautiful backyard oasis complete with a pool, hot tub, and outdoor kitchen. This Willow Creek gem is perfect for those who appreciate upscale living.",
+        "neighborhood_description": "Willow Creek is known for its upscale and exclusive feel, with tree-lined streets and well-manicured lawns. Residents enjoy easy access to high-end shopping, fine dining, and top-rated schools. Take a leisurely walk to the nearby Willow Creek Country Club or explore the scenic nature trails throughout the neighborhood. With a strong sense of community and a prime location, Willow Creek offers a luxurious lifestyle for those seeking the very best.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Green Oaks",
+        "price": 800000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_footage": "2,000 sqft",
+        "description": "Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Green Oaks gem.",
+        "neighborhood_description": "Green Oaks is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Green Oaks Park or grab a cup of coffee at the cozy Green Bean Cafe. With easy access to public transportation and bike lanes, commuting is a breeze.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Willow Creek",
+        "price": 950000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "3,500 sqft",
+        "description": "Escape to the serene beauty of Willow Creek with this stunning 4-bedroom, 3-bathroom home. Nestled in a quiet cul-de-sac, this spacious property offers a modern and open floor plan with high ceilings and large windows that fill the home with natural light. The gourmet kitchen features granite countertops and top-of-the-line appliances, perfect for the home chef. The master suite boasts a luxurious en-suite bathroom and a walk-in closet. Step outside to the expansive backyard with a covered patio, perfect for outdoor entertaining. Experience luxury living in the peaceful surroundings of Willow Creek.",
+        "neighborhood_description": "Willow Creek is a prestigious neighborhood known for its upscale homes and lush greenery. Residents enjoy easy access to top-rated schools, exclusive country clubs, and upscale shopping centers. Take a leisurely walk along the tree-lined streets or enjoy a round of golf at the Willow Creek Country Club. With a close-knit community vibe and convenient location, Willow Creek offers a luxurious lifestyle for discerning homeowners.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Green Oaks",
+        "price": 800000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_footage": "2,000 sqft",
+        "description": "Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Green Oaks gem.",
+        "neighborhood_description": "Green Oaks is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Green Oaks Park or grab a cup of coffee at the cozy Green Bean Cafe. With easy access to public transportation and bike lanes, commuting is a breeze.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunnyvale Estates",
+        "price": 1200000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Step into luxury with this exquisite 4-bedroom, 3-bathroom home located in the prestigious Sunnyvale Estates neighborhood. This stunning property features high-end finishes, a chef's kitchen with top-of-the-line appliances, and a spacious master suite with a spa-like bathroom and walk-in closet. The open concept living area is perfect for entertaining guests, while the backyard oasis offers a swimming pool, outdoor kitchen, and lush landscaping. Enjoy the epitome of upscale living in Sunnyvale Estates.",
+        "neighborhood_description": "Sunnyvale Estates is known for its upscale ambiance and well-maintained properties. The neighborhood is conveniently located near top-rated schools, high-end shopping centers, and fine dining restaurants. Residents can also enjoy the nearby Sunnyvale Estates Park for outdoor activities and picnics. With easy access to major highways and tech companies, Sunnyvale Estates is the ideal location for those seeking a luxurious lifestyle.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Willow Creek",
+        "price": 650000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Discover this stunning 4-bedroom, 3-bathroom home located in the desirable Willow Creek neighborhood. This spacious home features a modern open floor plan with high ceilings and large windows that flood the living spaces with natural light. The gourmet kitchen is equipped with stainless steel appliances, granite countertops, and a large island for food prep and casual dining. The master suite offers a relaxing retreat with a luxurious en-suite bathroom featuring a soaking tub and separate shower. Step outside to the beautifully landscaped backyard with a covered patio, perfect for outdoor entertaining and al fresco dining. With top-rated schools and convenient access to shopping and dining, this Willow Creek home is the perfect blend of luxury and comfort.",
+        "neighborhood_description": "Willow Creek is a family-friendly neighborhood known for its tree-lined streets, parks, and community events. Residents enjoy easy access to schools, shopping centers, and restaurants. Take a leisurely stroll through Willow Creek Park or join a community yoga class at the neighborhood clubhouse. With a strong sense of community and a variety of amenities, Willow Creek is the ideal place to call home.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Hilltop Estates",
+        "price": 950000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "3,500 sqft",
+        "description": "Welcome to this luxurious 4-bedroom, 3-bathroom home situated in the prestigious Hilltop Estates neighborhood. This stunning property features high-end finishes, a gourmet kitchen with top-of-the-line appliances, and a spacious master suite with a walk-in closet and spa-like bathroom. The open floor plan is perfect for entertaining, with a formal dining room, cozy fireplace in the living room, and a private backyard oasis with a pool and outdoor kitchen. Enjoy breathtaking panoramic views of the city from the expansive windows throughout the home.",
+        "neighborhood_description": "Hilltop Estates is known for its exclusive luxury homes and breathtaking views of the city below. Residents of this upscale neighborhood enjoy serene surroundings, access to top-rated schools, and convenient proximity to shopping and dining options. Explore the nearby Hilltop Park for hiking trails and picnicking, or take a short drive to the Hilltop Vineyards for wine tasting with friends and family.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunnyvale Heights",
+        "price": 1200000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Welcome to this stunning modern home in the desirable Sunnyvale Heights neighborhood. This spacious 4-bedroom, 3-bathroom house features high-end finishes and an open floor plan perfect for entertaining. The gourmet kitchen is equipped with stainless steel appliances and quartz countertops. The master suite offers a luxurious retreat with a spa-like bathroom and a walk-in closet. Enjoy the beautiful backyard oasis with a custom-built fire pit and outdoor kitchen. Experience luxury living at its finest in Sunnyvale Heights.",
+        "neighborhood_description": "Sunnyvale Heights is known for its family-friendly environment and top-rated schools. The neighborhood offers easy access to parks, shopping centers, and dining options. Residents can enjoy the nearby hiking trails and community events throughout the year. With close proximity to major tech companies and convenient transportation options, Sunnyvale Heights is the perfect place to call home.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Sunnyvale Heights",
+        "price": 1200000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_footage": "2,500 sqft",
+        "description": "Step into this modern oasis located in the sought-after neighborhood of Sunnyvale Heights. This stunning 4-bedroom, 3-bathroom home features an open floor plan with high ceilings and large windows that flood the space with natural light. The gourmet kitchen is equipped with top-of-the-line stainless steel appliances and a spacious island, perfect for entertaining guests. The luxurious master suite offers a private retreat with a spa-like bathroom and a walk-in closet. Step outside to the beautifully landscaped backyard with a patio area, ideal for outdoor dining and relaxation. Don't miss the opportunity to own this elegant home in Sunnyvale Heights.",
+        "neighborhood_description": "Sunnyvale Heights is a family-friendly neighborhood known for its well-maintained parks, top-rated schools, and convenient location near shopping and dining options. Residents enjoy easy access to major tech companies, making it a popular choice for tech professionals. Explore the nearby hiking trails at Sunnyvale Mountain Preserve or take a short drive to the vibrant downtown area for entertainment and cultural events.",
+        "image_path": null
+    },
+    {
+        "neighborhood": "Green Oaks",
+        "price": 800000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_footage": "2,000 sqft",
+        "description": "Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Green Oaks gem.",
+        "neighborhood_description": "Green Oaks is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Green Oaks Park or grab a cup of coffee at the cozy Green Bean Cafe. With easy access to public transportation and bike lanes, commuting is a breeze.",
+        "image_path": null
+    }
+]

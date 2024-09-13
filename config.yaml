@@ -1,0 +1,142 @@
+prompts:
+  listing_generator:
+    description: >
+      You are a writer and a real estate expert with extensive knowledge of the terminolgy and a capable of writing lengthy, easy to read and factual descriptions of properties.
+
+      Generate a real estate listing in JSON format with the following keys: 'neighborhood', 'price', 'bedrooms', 'bathrooms', 'square_footage', 'house_size', 'description', 'neighborhood_description'. Ensure 'price' is an integer and 'house_size' is an integer. The output must be a valid JSON string.
+
+      Here is an example of a listing:
+        {neighborhood}: Green Oaks,
+        {price}: $800,000,
+        {bedrooms}: 3,
+        {bathrooms}: 2,
+        {square_footage}: 2,000 sqft,
+        {description}: Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Green Oaks gem.,
+        {neighborhood_description}: Green Oaks is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Green Oaks Park or grab a cup of coffee at the cozy Green Bean Cafe. With easy access to public transportation and bike lanes, commuting is a breeze.
+
+  user_prompt_generator:
+    description: > 
+      You are a home buyer looking for your dream home.
+      Generate a set of new and unique answers as a single paragraph for the following questions. 
+
+      Questions:
+        What kind of neighborhood are you interested in?
+        What is your budget?
+        How many bedrooms do you need?
+        How many bathrooms do you need?
+        What is the minimum square footage you require?
+        What is your preferred style of home?
+        Do you have any specific requirements for the property?
+        What amenities are important to you?
+      expected_output: 
+        Keep your answers concise and to the point.
+        Example answers are provided for reference.
+        
+          Answers:
+            I am interested in a family-friendly neighborhood with good schools and parks.
+            My budget is $450,000.
+            I need at least 3 bedrooms.
+            I need at least 2 bathrooms.
+            I require a minimum of 1,500 square feet.
+            I prefer a modern style home with an open floor plan.
+            I need a home office and a backyard.
+            Amenities that are important to me include a pool and a gym.
+
+  user_text_generator:
+    description: > 
+      You are a writer and a real estate expert with extensive knowledge of the terminolgy and a capable of writing lengthy, 
+      easy to read and factual descriptions of properties.
+      Generate a list of personalized realistic real estate listings for a home buyer based on the buyer preference.
+
+      Make sure to personalize the listing for the buyer that mathches the buyer preferences as close as possible. 
+      Do not change factual information, including neighborhood, price, number of bedrooms, number of bathrooms, and square footage. 
+      If you include price, make sure you use the listing price below, and only include it if it is less than the buyer's budget if provided.
+    
+      Keep the listing concise and to the point.
+        Property Description:
+
+        {description}
+
+        Neighborhood Description:
+
+        {neighborhood_description}
+
+        Listing Price:
+    
+        {price}
+
+        Personalized Listing:
+      expected_output: >
+        Keep the listing concise and to the point.
+        Example answers are provided for reference.
+        
+          Property Description: Don't miss out on this beautiful 4-bedroom, 3-bathroom craftsman-style home in the Sunny Brooke neighborhood. The cozy fireplace, large kitchen with granite countertops, and spacious layout make it perfect for entertaining. The home also features a two-car garage, a home theater, and a backyard deck for outdoor gatherings. 
+
+          Neighborhood Description: Sunny Brooke offers a strong sense of community with scenic parks, hiking trails, and top-rated schools nearby. Enjoy the peaceful tree-lined streets and convenient access to shopping and dining options while still being close to major highways for easy commuting.
+
+          Listing Price: $600,000
+
+agents:
+  system_text_generator:
+    role: >
+      system
+    goal: >
+      Generate a list of realistic real estate listings.
+    backstory: >
+      You are a writer and a real estate expert with extensive knowledge of the terminolgy and a capable of writing lengthy, 
+      easy to read and factual descriptions of properties.
+
+  user_text_generator:
+    role: >
+      system
+    goal: >
+      Generate a list of personalized realistic real estate listings for a home buyer based on the buyer preference. 
+    backstory: >
+      You are a writer and a real estate expert with extensive knowledge of the terminolgy and a capable of writing lengthy, 
+      easy to read and factual descriptions of properties.
+
+  user_prompt_generator:
+    role: >
+      user
+    goal: >
+      Generate a set of new and unique answers as a single paragraph. 
+    backstory: >
+      You are a home buyer looking for your dream home.
+
+  image_generator:
+    role: >
+      System
+    goal: >
+      Generate a phote realistic image for each of the real estate listing from the a table. 
+
+env_config:
+  api_base:
+    base1: "https://openai.vocareum.com/v1"
+
+  model_name:
+    text1: "gpt-3.5-turbo"
+    text2: "text-embedding-ada-002"
+    image1: "stabilityai/sdxl-turbo"
+    image2: ""
+    multimodal1: "openai/clip-vit-base-patch32"
+
+  embeddings:
+    emb1: "openai/clip-vit-base-patch32"
+    emb2: "openai/clip-vit-base-patch32"
+    emb3: "text-embedding-ada-002"
+
+  tokenizer:
+    tok1: ""
+    tok2: ""
+
+data:
+  listing_list_range: 20
+  listing_file_path: "data/real_estate_listings.json"
+  vector_db_path: "db"
+  output_dir: './data'
+  results_file_path: './data/personalized_results.json'
+  image_list: 0
+  top-k: 3
+  temperature: 1.0
+
+
